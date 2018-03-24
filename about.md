@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Well this is embarrassing... I don't like talking about me. Plus I am 90% sure I don't have the commitment for a blog, so this will probably appear on the internet without edit for a while... possibly forever.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+So yeah, I am someone who's interested in science, analysis, progress, humanity. Basically I have so few interests outside a core set, that 90% of what I'm interested in is derived from it being of interest for other people, and I find it really hard to have conversations with people, so what better way than to overthink their own interests and bore the heck out of them! 
